@@ -16,12 +16,8 @@ int main(){
     while(i< pencacah){
         pangkat = pangkat*bilangan;
         i++;
-        cout<<pangkat;
     }
 
     cout<<"hasil pangkat : " <<pangkat;
-
-    //rerata=jumlah/n;
-   // cout<<rerata;
 
 }
